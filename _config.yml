@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Hongrong Wei"
+description              : &description "A researcher and engineer in AI algorithms for medical imaging."
+url                      : https://hongrongwei.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,24 +22,24 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "photo.png"
+  name             : "Hongrong Wei"
+  pronouns         : # example: "he/his"
+  bio              : "AI algorithms in medical imaging"
+  location         : "Shenzhen"
+  employer         : "SenseTime"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weihongrong2019@email.szu.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vXIZReYAAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Hongrong-Wei"
   scopus           : # URL
 
   # Repositories and software development
