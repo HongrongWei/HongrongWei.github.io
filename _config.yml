@@ -25,8 +25,8 @@ author:
   avatar           : "photo.png"
   name             : "Hongrong Wei"
   pronouns         : # example: "he/his"
-  bio              : "AI algorithms in medical imaging"
-  location         : "Shenzhen"
+  bio              : "AI in Medical Imaging"
+  location         : "Shanghai"
   employer         : "SenseTime"
   uri              : # URL
   email            : "weihongrong2019@email.szu.edu.cn"
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
