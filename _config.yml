@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hongrong Wei"
 title_separator          : "-"
 name                     : &name "Hongrong Wei"
 description              : &description "A researcher and engineer in AI algorithms for medical imaging."
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Hongrong Wei"
+  name             : # "Hongrong Wei"
   pronouns         : # example: "he/his"
-  bio              : "AI in Medical Imaging"
+  bio              : "AI algorithms in Medical Imaging"
   location         : "Shanghai"
   employer         : "SenseTime"
   uri              : # URL
