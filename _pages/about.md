@@ -19,7 +19,7 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/images/MCLAS.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    <img src="/images/MCLAS_v2.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
   <!-- 右侧文字 -->
@@ -31,7 +31,7 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
       <strong>Hongrong Wei</strong>, Junqiang Ma, Yongjin Zhou, Wufeng Xue<sup>*</sup>, Dong Ni<sup>*</sup>
     </p>
     <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
-      Medical Image Analysis, IF = 11.8, Feb. 2023
+      Medical Image Analysis, Feb. 2023
     </p>
 
     <!-- 链接按钮 -->
@@ -106,12 +106,12 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    <img src="/images/heart4d.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+  <!-- 右侧项目描述 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.5;">
+    <p>
       This project proposes a 4D cardiac mesh generation framework that captures both spatial structure and temporal dynamics, aiming to support cardiac function assessment and preoperative planning.
       By leveraging 3D cardiac CT and echocardiographic sequences, we integrate latent diffusion and autoregressive modeling to synthesize temporally coherent 3D meshes across the cardiac cycle.
     </p>
@@ -127,12 +127,12 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
     <img src="/images/PE.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+  <!-- 右侧项目描述 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.5;">
+    <p>
         Pulmonary embolism (PE) is a life-threatening condition requiring early and accurate diagnosis.
-        We proposed a deep learning framework that integrates embolus segmentation, center-point detection, and anatomical constraints.
-        To further reduce false positives, a Graph Attention Network (GAT) is employed to capture global vascular context.
+        We propose a deep learning framework combining embolus segmentation, center detection, and anatomical constraints, 
+        with a Graph Attention Network (GAT) to reduce false positives via global vascular context.
     </p>
 
   </div>
@@ -146,12 +146,11 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
     <img src="/images/uro.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
-        This project utilizes 3D CT for organ localization and employs nn-Unet for precise segmentation and 3D reconstruction of kidneys, adrenal glands, and the urinary tract (including renal pelvis, calyces, ureters, and bladder).
-        It also supports automated diagnosis of related conditions such as ureteral dilation.
-        Additionally, tumors and cystic lesions within the kidneys are detected using CenterNet, followed by fine segmentation with U-Net, providing accurate imaging guidance for surgical assessment and planning.
+  <!-- 右侧项目描述 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.5;">
+    <p>
+        This project performs 3D reconstruction of the urinary system from CT scans using nn-Unet, enabling precise segmentation of organs and lesions. 
+        It supports automated diagnosis of ureteral dilation, and integrates CenterNet and U-Net for kidney tumor and cyst detection, aiding surgical planning.
     </p>
 
   </div>
@@ -165,9 +164,9 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
     <img src="/images/nodule.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+  <!-- 右侧项目描述 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.5;">
+    <p>
         This project develops a 2.5D multi-channel Yolo-v7 model based on 3D thin/thick CT sequences for detecting major pulmonary lesions. 
         Additionally, a multi-label classification network identifies 11 typical nodule characteristics (e.g., lobulation, spiculation, vacuole) critical for malignancy assessment. 
         A partial label learning strategy is employed to dynamically refine noisy label confidence, improving overall detection accuracy.
@@ -176,32 +175,13 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
   </div>
 
 </div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/images/nodule.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
-  </div>
-
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
-        This project develops a 2.5D multi-channel Yolo-v7 model based on 3D thin/thick CT sequences for detecting major pulmonary lesions. 
-        Additionally, a multi-label classification network identifies 11 typical nodule characteristics (e.g., lobulation, spiculation, vacuole) critical for malignancy assessment. 
-        A partial label learning strategy is employed to dynamically refine noisy label confidence, improving overall detection accuracy.
-    </p>
-
-  </div>
-
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-
-  <!-- 左侧图片容器，垂直排列两张图 -->
-  <div style="flex: 0 0 160px; margin-right: 20px; display: flex; flex-direction: column; gap: 10px;">
-    <img src="/images/CT_denoise.png" alt="Image 1" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
-    <img src="/images/CT_denoise_example.png" alt="Image 2" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    <img src="/images/CT_denoise.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
   <!-- 右侧项目描述 -->
