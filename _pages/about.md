@@ -19,6 +19,37 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/MCLAS.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+      Co-learning of Appearance and Shape for Precise Ejection Fraction Estimation from Echocardiographic Sequences
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 13.5px;">
+      <strong>Hongrong Wei</strong>, Junqiang Ma, Yongjin Zhou, Wufeng Xue<sup>*</sup>, Dong Ni<sup>*</sup>
+    </p>
+    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
+      Medical Image Analysis, IF = 11.8, Feb. 2023
+    </p>
+
+    <!-- 链接按钮 -->
+    <p style="margin: 0;">
+      🔗 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003140" target="_blank">[Paper]</a>
+      &nbsp;|&nbsp;
+      📽️ <a href="https://docs.google.com/presentation/d/1KKNQotp5UvlFZur5TJqgwO4XwMqdQxAv/edit?usp=drive_link&ouid=104984256786708680802&rtpof=true&sd=true" target="_blank">[BME2021-Slide]</a>
+    </p>
+  </div>
+
+</div>
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
     <img src="/images/CLAS.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
@@ -27,11 +58,11 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
     <p style="margin: 0; font-size: 15px; font-weight: bold;">
       Temporal-Consistent Segmentation of Echocardiography with Co-Learning from Appearance and Shape
     </p>
-    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
-      Medical Image Computing and Computer Assisted Intervention (MICCAI), Sep. 2020
-    </p>
     <p style="margin: 0 0 10px 0; font-size: 13.5px;">
       <strong>Hongrong Wei</strong>, Heng Cao, Yiqin Cao, Yongjin Zhou, Wufeng Xue<sup>*</sup>, Dong Ni, Shuo Li
+    </p>
+    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
+      Medical Image Computing and Computer Assisted Intervention (MICCAI), Sep. 2020
     </p>
 
     <!-- 链接按钮 -->
@@ -45,5 +76,7 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
   </div>
 
 </div>
+
+
 
 
