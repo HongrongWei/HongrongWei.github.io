@@ -78,5 +78,145 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
 </div>
 
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+      Reducing Domain Gaps for Echocardiogram Video Segmentation via Shape-Driven Tracking
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 13.5px;">
+      <strong>Hongrong Wei</strong>, Na Wang, Tian Shen, Shaoting Zhang
+    </p>
+    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
+      Under review
+    </p>
+
+  </div>
+
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+      This project proposes a 4D cardiac mesh generation framework that captures both spatial structure and temporal dynamics, aiming to support cardiac function assessment and preoperative planning.
+      By leveraging 3D cardiac CT and echocardiographic sequences, we integrate latent diffusion and autoregressive modeling to synthesize temporally coherent 3D meshes across the cardiac cycle.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/PE.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+        Pulmonary embolism (PE) is a life-threatening condition requiring early and accurate diagnosis.
+        We proposed a deep learning framework that integrates embolus segmentation, center-point detection, and anatomical constraints.
+        To further reduce false positives, a Graph Attention Network (GAT) is employed to capture global vascular context.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/uro.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+        This project utilizes 3D CT for organ localization and employs nn-Unet for precise segmentation and 3D reconstruction of kidneys, adrenal glands, and the urinary tract (including renal pelvis, calyces, ureters, and bladder).
+        It also supports automated diagnosis of related conditions such as ureteral dilation.
+        Additionally, tumors and cystic lesions within the kidneys are detected using CenterNet, followed by fine segmentation with U-Net, providing accurate imaging guidance for surgical assessment and planning.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/nodule.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+        This project develops a 2.5D multi-channel Yolo-v7 model based on 3D thin/thick CT sequences for detecting major pulmonary lesions. 
+        Additionally, a multi-label classification network identifies 11 typical nodule characteristics (e.g., lobulation, spiculation, vacuole) critical for malignancy assessment. 
+        A partial label learning strategy is employed to dynamically refine noisy label confidence, improving overall detection accuracy.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/nodule.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+        This project develops a 2.5D multi-channel Yolo-v7 model based on 3D thin/thick CT sequences for detecting major pulmonary lesions. 
+        Additionally, a multi-label classification network identifies 11 typical nodule characteristics (e.g., lobulation, spiculation, vacuole) critical for malignancy assessment. 
+        A partial label learning strategy is employed to dynamically refine noisy label confidence, improving overall detection accuracy.
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片容器，垂直排列两张图 -->
+  <div style="flex: 0 0 160px; margin-right: 20px; display: flex; flex-direction: column; gap: 10px;">
+    <img src="/images/CT_denoise.png" alt="Image 1" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    <img src="/images/CT_denoise_example.png" alt="Image 2" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧项目描述 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.5;">
+    <p>
+       This project proposes an unsupervised LDCT synthesis and denoising model based on StarGAN v2, capable of generating and denoising LDCT images without paired NDCT/LDCT data. 
+       The model leverages a Mapping Network or Style Encoder to extract style vectors representing noise patterns at different dose levels, 
+       which are injected or removed via AdaIN modules within the generator to control noise characteristics.
+    </p>
+  </div>
+
+</div>
+
+
+
+
 
 
