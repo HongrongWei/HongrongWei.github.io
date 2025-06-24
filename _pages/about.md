@@ -19,7 +19,7 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="CLAS.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    <img src="/images/CLAS.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
   </div>
 
   <!-- 右侧文字 -->
