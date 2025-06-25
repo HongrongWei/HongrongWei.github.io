@@ -15,7 +15,7 @@ redirect_from:
   
   <!-- 右侧个人简介 -->
   <div style="flex: 1;">
-    <div style="font-size: 15px; line-height: 1.6; margin-bottom: 15px;">
+    <div style="font-size: 16px; line-height: 1.6; margin-bottom: 15px;">
       <p>
         I am currently a researcher at the Smart Health Department of SenseTime, focusing on medical AI algorithms.
         I received both my Bachelor's and Master's degrees in Biomedical Engineering from Shenzhen University,
