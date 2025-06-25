@@ -129,8 +129,8 @@ redirect_from:
     </div>
     <div style="flex: 1; font-size: 14px; line-height: 1.5;">
       <p>
-        This project performs 3D reconstruction of the urinary system from CT scans using nn-Unet. 
-        It detects lesions with CenterNet and U-Net, enabling automated diagnosis and surgical planning.
+        This project performs 3D reconstruction of the urinary system from CT scans using nn-Unet, enabling precise segmentation of organs and lesions. 
+        It supports automated diagnosis of ureteral dilation, and integrates CenterNet and U-Net for kidney tumor and cyst detection, aiding surgical planning.
       </p>
     </div>
   </div>
