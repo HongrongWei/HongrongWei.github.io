@@ -15,7 +15,7 @@ redirect_from:
   
   <!-- 右侧个人简介 -->
   <div style="flex: 1;">
-    <div style="font-size: 17px; line-height: 1.6; margin-bottom: 15px;">
+    <div style="font-size: 15px; line-height: 1.6; margin-bottom: 15px;">
       <p>
         I am currently a researcher at the Smart Health Department of SenseTime, focusing on medical AI algorithms.
         I received both my Bachelor's and Master's degrees in Biomedical Engineering from Shenzhen University,
@@ -29,8 +29,8 @@ redirect_from:
       <div style="display: flex; align-items: center; gap: 15px;">
         <!-- 邮箱 -->
         <div style="display: flex; align-items: center;">
-          <span style="font-size: 20px; margin-right: 8px;">📧</span>
-          <a href="mailto:weihongrong2019@email.szu.edu.cn" style="font-size: 16px; text-decoration: none; color: #1a73e8; font-weight: 500;">
+          <span style="font-size: 15px; margin-right: 8px;">📧</span>
+          <a href="mailto:weihongrong2019@email.szu.edu.cn" style="font-size: 14px; text-decoration: none; color: #1a73e8; font-weight: 500;">
             weihongrong2019@email.szu.edu.cn
           </a>
         </div>
@@ -40,10 +40,10 @@ redirect_from:
         
         <!-- 学术主页 -->
         <div style="display: flex; align-items: center;">
-          <span style="font-size: 20px; margin-right: 8px;">🎓</span>
+          <span style="font-size: 15px; margin-right: 8px;">🎓</span>
           <a href="https://scholar.google.com/citations?user=vXIZReYAAAAJ&hl=zh-CN&oi=ao" 
              target="_blank" 
-             style="font-size: 16px; text-decoration: none; color: #1a73e8; font-weight: 500;">
+             style="font-size: 14px; text-decoration: none; color: #1a73e8; font-weight: 500;">
             Google Scholar
           </a>
         </div>
