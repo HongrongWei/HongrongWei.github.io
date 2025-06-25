@@ -1,21 +1,33 @@
 ---
 permalink: /
 title: "Biography"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a researcher at the Smart Health Department of SenseTime, focusing on medical AI algorithms.  
-I received both my Bachelor's and Master's degrees in Biomedical Engineering from Shenzhen University,  
-where I worked on medical image segmentation and registration in the Medical Ultrasound Image Computing Lab, led by Professor Dong Ni.  
+<div style="display: flex; margin-bottom: 2em;">
+  <!-- 左侧头像 -->
+  <div style="flex: 0 0 200px; padding-right: 30px;">
+    <img src="/images/photo.png" alt="avatar" style="width: 100%; border-radius: 50%;">
+  </div>
+  
+  <!-- 右侧个人简介 -->
+  <div style="flex: 1;">
+    <p>
+      I am currently a researcher at the Smart Health Department of SenseTime, focusing on medical AI algorithms.
+      I received both my Bachelor's and Master's degrees in Biomedical Engineering from Shenzhen University,
+      where I worked on medical image segmentation and registration in the Medical Ultrasound Image Computing Lab, led by Professor Dong Ni.
+      Before joining SenseTime, I interned at the Tencent Jarvis Research Center, developing self-supervised algorithms for medical image segmentation.
+    </p>
 
-[//]: # (Before joining SenseTime, I interned at the Tencent Jarvis Research Center, developing self-supervised algorithms for medical image segmentation.)
+  </div>
+</div>
 
 ---
 
-<div style="clear: both; width: 100%; margin-top: 2em;">
+<div style="width: 100%; margin-top: 2em;">
   <h1>Projects</h1>
 
   <!-- Project 1 -->
@@ -66,30 +78,25 @@ where I worked on medical image segmentation and registration in the Medical Ult
     </div>
   </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-
-  <!-- 左侧图片 -->
-  <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
-  </div>
-
-  <!-- 右侧文字 -->
-  <div style="flex: 1;">
-    <p style="margin: 0; font-size: 15px; font-weight: bold;">
-      Reducing Domain Gaps for Echocardiogram Video Segmentation via Shape-Driven Tracking
-    </p>
-    <p style="margin: 0 0 10px 0; font-size: 13.5px;">
-      <strong>Hongrong Wei</strong>, Na Wang, Tian Shen, Shaoting Zhang
-    </p>
-    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
-      Under review
-    </p>
-
-  </div>
-
-</div>
-
   <!-- Project 3 -->
+  <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+    <div style="flex: 0 0 160px; margin-right: 20px;">
+      <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+    </div>
+    <div style="flex: 1;">
+      <p style="margin: 0; font-size: 15px; font-weight: bold;">
+        Reducing Domain Gaps for Echocardiogram Video Segmentation via Shape-Driven Tracking
+      </p>
+      <p style="margin: 0 0 10px 0; font-size: 13.5px;">
+        <strong>Hongrong Wei</strong>, Na Wang, Tian Shen, Shaoting Zhang
+      </p>
+      <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
+        Under review
+      </p>
+    </div>
+  </div>
+
+  <!-- Project 4 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
     <div style="flex: 0 0 160px; margin-right: 20px;">
       <img src="/images/heart4d.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
@@ -102,7 +109,7 @@ where I worked on medical image segmentation and registration in the Medical Ult
     </div>
   </div>
 
-  <!-- Project 4 -->
+  <!-- Project 5 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
     <div style="flex: 0 0 160px; margin-right: 20px;">
       <img src="/images/PE.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
@@ -115,7 +122,7 @@ where I worked on medical image segmentation and registration in the Medical Ult
     </div>
   </div>
 
-  <!-- Project 5 -->
+  <!-- Project 6 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
     <div style="flex: 0 0 160px; margin-right: 20px;">
       <img src="/images/uro.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
@@ -128,7 +135,7 @@ where I worked on medical image segmentation and registration in the Medical Ult
     </div>
   </div>
 
-  <!-- Project 6 -->
+  <!-- Project 7 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
     <div style="flex: 0 0 160px; margin-right: 20px;">
       <img src="/images/nodule.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
@@ -141,7 +148,7 @@ where I worked on medical image segmentation and registration in the Medical Ult
     </div>
   </div>
 
-  <!-- Project 7 -->
+  <!-- Project 8 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
     <div style="flex: 0 0 160px; margin-right: 20px;">
       <img src="/images/CT_denoise.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
@@ -153,5 +160,4 @@ where I worked on medical image segmentation and registration in the Medical Ult
       </p>
     </div>
   </div>
-
 </div>
