@@ -10,7 +10,8 @@ redirect_from:
 I am currently a researcher at the Smart Health Department of SenseTime, focusing on medical AI algorithms.  
 I received both my Bachelor's and Master's degrees in Biomedical Engineering from Shenzhen University,  
 where I worked on medical image segmentation and registration in the Medical Ultrasound Image Computing Lab, led by Professor Dong Ni.  
-Before joining SenseTime, I interned at the Tencent Jarvis Research Center, developing self-supervised algorithms for medical image segmentation.
+
+[//]: # (Before joining SenseTime, I interned at the Tencent Jarvis Research Center, developing self-supervised algorithms for medical image segmentation.)
 
 ---
 
@@ -64,6 +65,29 @@ Before joining SenseTime, I interned at the Tencent Jarvis Research Center, deve
       </p>
     </div>
   </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/images/SDT.png" alt="project image" style="width: 100%; border-radius: 8px; border: 1px solid #ccc;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-size: 15px; font-weight: bold;">
+      Reducing Domain Gaps for Echocardiogram Video Segmentation via Shape-Driven Tracking
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 13.5px;">
+      <strong>Hongrong Wei</strong>, Na Wang, Tian Shen, Shaoting Zhang
+    </p>
+    <p style="margin: 2px 0 5px 0; font-size: 14px; font-style: italic;">
+      Under review
+    </p>
+
+  </div>
+
+</div>
 
   <!-- Project 3 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
